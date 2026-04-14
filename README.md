@@ -1,5 +1,4 @@
-# simple-linear-regression
-Simple Linear Regression project using Python and Scikit-learn
+This project demonstrates Simple Linear Regression using Python and Scikit-learn.
 # Simple Linear Regression Project
 
 ## Objective
